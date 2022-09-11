@@ -1,0 +1,32 @@
+@keyframes heartbeat {
+	from {
+		transform: scale(1);
+	}		
+	50% {
+		transform: scale(1.15);
+	}		
+	to {
+		transform: scale(1);
+	}
+}
+
+@keyframes bootsrunaway {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(300px);
+	}
+}
+
+@keyframes prizeturn {
+	from {
+		transform: rotateY(0);
+	}
+	50% {
+		transform: rotateY(180deg);
+	}
+	to {
+		transform: rotateY(0);
+	}
+}

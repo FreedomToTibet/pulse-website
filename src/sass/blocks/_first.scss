@@ -1,0 +1,63 @@
+//******** First Section *********
+.first {
+	width: 100%;
+	min-height: 650px;
+	padding: 21px 0 93px;
+	background: url(../img/main.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	color: $text-color;
+	&__wrapper {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+		overflow-x: hidden;
+		margin-top: 90px;
+	}
+	&__icons {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 65px;
+		width: 425px;
+	}
+	&__icon {
+		width: 108px;
+		text-align: center;
+		font-size: 14px;
+		font-weight: 500;
+		img {
+			display: block;
+			margin: 0 auto;
+			margin-bottom: 20px;
+		}
+	}
+	&__link {
+		margin-top: 18px;
+		font-size: 16px;
+		font-weight: 500;
+		a {
+			color: $text-color;
+			text-decoration: underline;
+			text-transform: uppercase;
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+h1 {
+	font-size: 42px;
+	line-height: 42px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 24px;
+	line-height: 24px;
+	font-weight: 500;
+	text-transform: uppercase;
+	margin-top: 17px;
+}
