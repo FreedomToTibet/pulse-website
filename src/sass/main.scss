@@ -1,0 +1,29 @@
+@import './libs/bootstrap-reboot.min';
+@import './libs/fonts';
+@import './libs/all.min';
+@import './libs/slick';
+@import './libs/animate.min';
+
+@import "base/var";
+@import "base/animations";
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'MuseoSans', sans-serif;
+}
+
+@import "blocks/button";
+@import "blocks/header";
+@import "blocks/first";
+@import "blocks/title";
+@import "blocks/second";
+@import "blocks/third";
+@import "blocks/form";
+@import "blocks/carousel";
+@import "blocks/catalog";
+@import "blocks/feed";
+@import "blocks/footer";
+@import "blocks/modal";
+@import "blocks/media";

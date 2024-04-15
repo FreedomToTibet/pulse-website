@@ -1,0 +1,23 @@
+.third {
+	width: 100%;
+	min-height: 680px;
+	padding: 100px 0 92px;
+	background: url(../img/consultation.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	&__descr {
+		margin-top: 60px;
+		color: $text-color;
+		font-weight: 500;
+	}
+	.error {
+		border: 1px solid red;
+	}
+	label.error {
+		color: $text-color;
+		border: none;
+		text-align: center;
+		margin-bottom: 15px;
+	}
+}
