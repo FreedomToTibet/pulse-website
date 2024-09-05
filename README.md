@@ -1,5 +1,3 @@
-## The internet store of sports heart rate monitors.
-
 ## Welcome to our small website of sports heart rate monitors store.
 
 ### Here there are:
