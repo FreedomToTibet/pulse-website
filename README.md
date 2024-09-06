@@ -13,7 +13,7 @@
 - Gulp
 - SCSS
 - jQuery
-- Nativ JS
+- Native JS
 - libraries (wow, slick carousel, prognroll)
 - input masks and input validation
 - fontawesome
