@@ -1,7 +1,7 @@
 ## Welcome to our small website of sports heart rate monitors store.
 
 ### Here there are:
-- moduls windows
+- modal windows
 - forms
 - slider
 - tabs
