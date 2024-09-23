@@ -6,7 +6,10 @@
 - slider
 - tabs
 - animations
-- Google map
+- Google maps
+- email validation
+- phone number validation
+- website progress line
 
 ### Technologies used in development:
 
